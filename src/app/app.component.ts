@@ -9,7 +9,7 @@ import { Component } from '@angular/core';
 export class AppComponent  {
 
   prefix: string = "I am a ";
-  name: string = "Knob";
+  name: string = "Superstar";
 
   speak() {
     const sentence = this.prefix + this.name;
